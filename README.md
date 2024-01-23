@@ -1,1 +1,2 @@
-# go-starter ver:0.1
+# go-starter 
+ver: 0.1
